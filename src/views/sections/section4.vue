@@ -45,16 +45,13 @@
           </p>
         </div>
         <div v-show="this.detailsSwitch[3]" class="acount-content">
-          E-mail : <a class="link" href="sedig931@gmail.com">@sedig931</a>
+          E-mail :
+          <a class="link" href="https://sedig931@gmail.com">@sedig931</a>
         </div>
       </div>
       <!-- <span class="copy-right">copyright</span> -->
     </div>
-    <footer class="copy-right">
-      &copy; 2024Copyright by
-      <a class="link" href="https://www.facebook.com/siddig.alhareith">siddig</a
-      >.Don't claim as your own product.
-    </footer>
+    <footer class="copy-right">&copy; 2024 samdtc</footer>
   </section>
 </template>
 
